@@ -17,3 +17,8 @@ Qualsiasi cosa tu voglia creare, puoi usare questo template!
 Il tutorial che abbiamo usato anche in classe lo trovate [qui](https://wbigger.github.io/book-cs-3y/).
 
 Buon divertimento :)
+
+# il progetto mio e di costantini
+lista di build consiiglite per fasce di prezzo e utilizzo 
+
+ 
